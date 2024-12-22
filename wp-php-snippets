@@ -1,0 +1,9 @@
+if(empty($row['yourColumn']))
+{
+    // it's empty!
+    echo "Nada in the field!.\n";
+}
+else
+{
+    // Do stuff with the field
+}
