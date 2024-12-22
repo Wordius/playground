@@ -1,6 +1,8 @@
-// Leave field empty
+/* Leave field empty
+*/
 
-<?php if(empty($row['yourColumn']))
+<?php 
+if(empty($row['yourColumn']))
 {
     // it's empty!
     echo "Nada in the field!.\n";
